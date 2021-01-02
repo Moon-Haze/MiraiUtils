@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5a35d789-c1e3-49b2-9577-9b73ba520907" name="默认的" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="MiraiUtils" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="MiraiUtils" type="f1a62948:ProjectNode" />
+                <item name="运行配置" type="7b0102dc:RunConfigurationsNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Users\java\maven\apache-maven-3.6.3\repository" />
+        <option name="userSettingsFile" value="D:\Users\java\maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kByPuy9nSgoPBsiO55RoMThfRM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="项目" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pathVariables" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="edu.sdust.moon.Core" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Users\Idea_Project\MiraiUtils\src\main\resources" />
+      <recent name="D:\Users\Idea_Project\MiraiUtils\src\main\java\edu\sdust\moon" />
+      <recent name="D:\Users\Idea_Project\MiraiUtils\src\main\java\edu\sdust\moon\Core" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="gradle build" />
+      <command value="gradle :javadoc" />
+      <command value="gradle :javadocJar" />
+      <command value="gradle clean" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Gradle.MiraiUtils [build]">
+    <configuration name="MiraiUtils [:javadocJar]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":javadocJar" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="MiraiUtils [:javadoc]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":javadoc" />
+          </list>
+        </option>
+        <option name="vmOptions" value="-Dfile.encoding=UTF-8" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="MiraiUtils [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="MiraiUtils [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Gradle.MiraiUtils [:javadoc]" />
+      <item itemvalue="Gradle.MiraiUtils [build]" />
+      <item itemvalue="Gradle.MiraiUtils [clean]" />
+      <item itemvalue="Gradle.MiraiUtils [:javadocJar]" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.MiraiUtils [build]" />
+        <item itemvalue="Gradle.MiraiUtils [:javadocJar]" />
+        <item itemvalue="Gradle.MiraiUtils [:javadoc]" />
+        <item itemvalue="Gradle.MiraiUtils [clean]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5a35d789-c1e3-49b2-9577-9b73ba520907" name="默认的" comment="" />
+      <created>1605188258575</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605188258575</updated>
+      <workItem from="1609557271592" duration="476000" />
+      <workItem from="1609557764502" duration="15000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="96" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605433077914">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="96" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.800/2560.-186.720.1280@0.0.1280.800" timestamp="1605190293581" />
+    <state x="96" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.800@0.0.1280.800" timestamp="1605433077914" />
+    <state x="446" y="106" key="#com.intellij.ide.util.MemberChooser" timestamp="1605617688111">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="446" y="106" key="#com.intellij.ide.util.MemberChooser/0.0.1280.800@0.0.1280.800" timestamp="1605617688111" />
+    <state x="201" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1605616782261">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="201" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1280.800@0.0.1280.800" timestamp="1605616782261" />
+    <state x="371" y="147" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1605196172990">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="371" y="147" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.800/2560.-186.720.1280@0.0.1280.800" timestamp="1605190099677" />
+    <state x="371" y="147" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.800@0.0.1280.800" timestamp="1605196172990" />
+    <state x="121" y="0" key="#项目结构" timestamp="1605193743011">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="121" y="0" key="#项目结构/0.0.1280.800@0.0.1280.800" timestamp="1605193743011" />
+    <state x="361" y="246" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1605617952572">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="361" y="246" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1280.800@0.0.1280.800" timestamp="1605617952572" />
+    <state x="422" y="143" key="FileChooserDialogImpl" timestamp="1605191702753">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="422" y="143" key="FileChooserDialogImpl/0.0.1280.800@0.0.1280.800" timestamp="1605191702753" />
+    <state width="1238" height="318" key="GridCell.Tab.0.bottom" timestamp="1605618454977">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="318" key="GridCell.Tab.0.bottom/0.0.1280.800/2560.-186.1280.720@0.0.1280.800" timestamp="1605496649069" />
+    <state width="1238" height="312" key="GridCell.Tab.0.bottom/0.0.1280.800/2560.-186.720.1280@0.0.1280.800" timestamp="1605190939640" />
+    <state width="1238" height="318" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1605618454977" />
+    <state width="1238" height="318" key="GridCell.Tab.0.center" timestamp="1605618454977">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="318" key="GridCell.Tab.0.center/0.0.1280.800/2560.-186.1280.720@0.0.1280.800" timestamp="1605496649069" />
+    <state width="1238" height="312" key="GridCell.Tab.0.center/0.0.1280.800/2560.-186.720.1280@0.0.1280.800" timestamp="1605190939640" />
+    <state width="1238" height="318" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1605618454977" />
+    <state width="1238" height="318" key="GridCell.Tab.0.left" timestamp="1605618454977">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="318" key="GridCell.Tab.0.left/0.0.1280.800/2560.-186.1280.720@0.0.1280.800" timestamp="1605496649068" />
+    <state width="1238" height="312" key="GridCell.Tab.0.left/0.0.1280.800/2560.-186.720.1280@0.0.1280.800" timestamp="1605190939640" />
+    <state width="1238" height="318" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1605618454977" />
+    <state width="1238" height="318" key="GridCell.Tab.0.right" timestamp="1605618454977">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="318" key="GridCell.Tab.0.right/0.0.1280.800/2560.-186.1280.720@0.0.1280.800" timestamp="1605496649069" />
+    <state width="1238" height="312" key="GridCell.Tab.0.right/0.0.1280.800/2560.-186.720.1280@0.0.1280.800" timestamp="1605190939640" />
+    <state width="1238" height="318" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1605618454977" />
+    <state x="41" y="0" key="SettingsEditor" timestamp="1605615800881">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="41" y="0" key="SettingsEditor/0.0.1280.800@0.0.1280.800" timestamp="1605615800881" />
+    <state x="232" y="0" key="new project wizard" timestamp="1605191720561">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="232" y="0" key="new project wizard/0.0.1280.800@0.0.1280.800" timestamp="1605191720561" />
+    <state x="306" y="189" width="672" height="677" key="run.anything.popup" timestamp="1605449108891">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="299" y="182" width="672" height="677" key="run.anything.popup/0.0.1280.800/2560.-186.720.1280@0.0.1280.800" timestamp="1605190299720" />
+    <state x="306" y="189" width="672" height="677" key="run.anything.popup/0.0.1280.800@0.0.1280.800" timestamp="1605449108891" />
+    <state x="304" y="123" width="672" height="678" key="search.everywhere.popup" timestamp="1605618137074">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="304" y="123" width="672" height="678" key="search.everywhere.popup/0.0.1280.800@0.0.1280.800" timestamp="1605618137074" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/MiraiUtils$MiraiUtils___javadoc_.ic" NAME="MiraiUtils [:javadoc] Coverage Results" MODIFIED="1605433021374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
